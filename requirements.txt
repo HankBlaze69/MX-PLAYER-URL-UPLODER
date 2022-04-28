@@ -12,4 +12,3 @@ psycopg2-binary
 feedparser
 tgcrypto
 youtube-dl
-mxplayer
