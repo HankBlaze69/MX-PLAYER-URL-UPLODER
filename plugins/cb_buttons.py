@@ -1,6 +1,5 @@
 import pyrogram
-
-from mxplayer.py import mxplayer_execute
+from plugins.mxplayer.py import mxplayer_execute
 
 
 @pyrogram.Client.on_callback_query()
