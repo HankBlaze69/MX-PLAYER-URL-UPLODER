@@ -6,9 +6,9 @@
     "mxplayer",
     "downloader"
   ],
-  "success_url": "https://github.com/Doctorstra/MX-PLAYER-URL-UPLODER",
+  "success_url": "https://github.com/HankBlaze69/MX-PLAYER-URL-UPLODER",
   "website": "https://github.com/Doctorstra",
-  "repository": "https://github.com/Doctorstra/MX-PLAYER-URL-UPLODER",
+  "repository": "https://github.com/HankBlaze69/MX-PLAYER-URL-UPLODER",
     "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
