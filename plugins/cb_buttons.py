@@ -1,6 +1,6 @@
 import pyrogram
 
-from plugins.mxplayer.py import mxplayer_execute
+from plugins.mxplayer import mxplayer_execute
 
 @pyrogram.Client.on_callback_query()
 async def formatbuttons(bot, update):
